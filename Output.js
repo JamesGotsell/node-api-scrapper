@@ -1,4 +1,4 @@
-const data = [
+exports.data = [
   {
     id: 461,
     name: "Communication's Responsible Rick",
